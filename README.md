@@ -10,8 +10,6 @@ I use PyTorch to build the model. I chose to use Resnet50 and retrain its fully 
 
 Training losses, test losses, and test accuracy are plotted below (every 20 steps).
 
-<img src="https://github.com/sooolee/CIFAR-10-Image-Classifier/blob/main/losses.png?raw=true" width="500">
+<img src="https://github.com/sooolee/CIFAR-10-Image-Classifier/blob/main/losses.png?raw=true" width="400">
 
-At the end of Epoch 2, the model achieved around 90.7% accuracy (best at 91.1%). Goal Achieved! As shown in the graph above, the losses and accuracy plataued at the end of Epoch 2.
-
-Checkpoint `up2_rn50.pth` is provided. 
+At the end of Epoch 2, the model achieved ***90.7% accuracy (best at 91.1%)***. Goal Achieved! As shown in the graph above, the losses and accuracy plataued at the end of Epoch 2.
